@@ -1,0 +1,47 @@
+* {
+	font-family: 'Lucida Sans', Courier, 'Courier New';
+	margin: 0;
+}
+html, body {
+	height: 100%;
+}
+.wrapper {
+	padding: 0 15%;
+	height: 100%;
+}
+.wrapper div {
+	text-align: center;
+	color: #333;
+	font-size: 3em;
+	font-weight: bold;
+	word-wrap: break-word;
+	position: relative;
+	top: 30%;
+	transform: translateY(-30%);
+}
+.wrapper div a {
+	text-decoration: none;
+	color: #333;
+}
+.brand {
+	position: fixed;
+	bottom: 0;
+	right: 0;
+	text-align: center;
+	color: #d0d0d0;
+	font-size: 1.6ex;
+	padding: 20px 30px;
+}
+.brand a {
+	color: #bbb;
+	text-decoration: none;
+}
+.brand a:hover {
+	text-decoration: underline;
+}
+.brand a.share {
+	color: #0000bb;
+}
+.brand a.share:hover {
+	text-decoration: underline;
+}
