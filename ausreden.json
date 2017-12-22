@@ -103,5 +103,7 @@
     "101": "Wir hatten leider keine Zeit mehr, das final zu testen",
     "102": "Wir h\u00e4tten schon vor Jahren ein Softwareupdate machen m\u00fcssen",
     "103": "Wir mussten das drei Monate debuggen, weil wir nur einen Monat zur Entwicklung hatten",
-    "104": "Der Fehler muss auf Layer 8 liegen"
+    "104": "Der Fehler muss auf Layer 8 liegen",
+    "105": "Wir haben Connection Problems zur Cloud",
+    "106": "Die VM skaliert noch nicht redundant"
 }
