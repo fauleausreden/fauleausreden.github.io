@@ -1,6 +1,6 @@
 Ausreden für faule Programmierer
 ================================
-Dieses Projekt ist ein Ausredengenerator für faule Programmierer. Es ist unter der Adresse [http://www.fauleausreden.de](http://www.fauleausreden.de) erreichbar.
+Dieses Projekt ist ein Ausredengenerator für faule Programmierer. Es ist unter der Adresse [https://fauleausreden.github.io](https://fauleausreden.github.io) erreichbar.
 
 Lizenz
 ------
